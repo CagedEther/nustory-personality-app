@@ -30,5 +30,4 @@ dist-ssr
 .env.test.local
 .env.production.local
 
-# API Keys - DO NOT COMMIT
-src/config.js
+# Note: config.js is now safe to commit since API keys are in environment variables
