@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background rectangle -->
+  <rect x="0" y="0" width="40" height="40" fill="#000000"/>
+  
+  <!-- White text "nu" on black background -->
+  <text x="5" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">nu</text>
+  
+  <!-- Black text "story" on white background -->
+  <text x="45" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="black">story</text>
+</svg> 

@@ -1,0 +1,400 @@
+{
+  "merged_jungian_archetypes": [
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Sage",
+      "merged_name": "The Wise Champion",
+      "merged_ad_guidance": "VISUAL: Use bold, triumphant imagery showing achievement combined with scholarly elements like books, graphs, or expert testimonials. Show confident figures in action alongside data visualization. VOICE: Write with authoritative confidence that demonstrates expertise while inspiring action. Use powerful verbs paired with credible statistics. Tone combines Hero's determination ('conquer,' 'achieve,' 'overcome') with Sage's wisdom ('proven,' 'research shows,' 'expert-backed'). Address audience as capable learners ready to win through smart strategy."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Everyman",
+      "merged_name": "The People's Champion",
+      "merged_ad_guidance": "VISUAL: Show ordinary people in triumphant moments - everyday heroes achieving goals. Use relatable settings (home, workplace, community) with victory elements. Avoid elite or luxury imagery. VOICE: Write with inspiring but accessible language that makes heroism feel attainable. Use 'we' and 'you' frequently. Combine Hero's empowerment ('You can do this,' 'Be your own hero') with Everyman's relatability ('Just like you,' 'Real people, real results'). Tone is encouraging and inclusive, never intimidating."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Outlaw",
+      "merged_name": "The Revolutionary Hero",
+      "merged_ad_guidance": "VISUAL: Use dramatic, bold imagery showing breaking through barriers or overthrowing systems. Dark colors with bright breakthrough moments. Show conflict and victory over oppression. VOICE: Write with fierce, defiant language that challenges authority while inspiring courage. Use strong action words and revolutionary rhetoric. Combine Hero's triumph ('Fight back,' 'Rise up') with Outlaw's rebellion ('Break the rules,' 'Defy the system'). Tone is intense, passionate, and uncompromising against injustice."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Lover",
+      "merged_name": "The Passionate Champion",
+      "merged_ad_guidance": "VISUAL: Use beautiful, aspirational imagery showing achievement leading to deeper connections. Warm colors, elegant settings, couples or communities celebrating together. Show victory enhancing relationships. VOICE: Write with passionate, emotionally rich language that connects triumph to love and beauty. Use sensory words and relationship metaphors. Combine Hero's achievement ('Win,' 'Succeed,' 'Conquer') with Lover's beauty ('Beautiful,' 'Passionate,' 'Intimate'). Tone is emotionally charged and aesthetically inspiring."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Caregiver",
+      "merged_name": "The Protective Guardian",
+      "merged_ad_guidance": "VISUAL: Show strong figures shielding or protecting loved ones, communities, or values. Use protective imagery like shields, embraces, or standing guard. Warm, secure environments. VOICE: Write with strength combined with nurturing care. Use protective language and family-focused messaging. Combine Hero's courage ('Defend,' 'Protect,' 'Stand strong') with Caregiver's nurturing ('Care for,' 'Keep safe,' 'Provide for'). Tone is both powerful and deeply caring, emphasizing strength used for protection."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Jester",
+      "merged_name": "The Cheerful Champion",
+      "merged_ad_guidance": "VISUAL: Use bright, energetic imagery showing joyful achievement. Playful victory celebrations, smiling faces, colorful and fun environments. Show success as enjoyable and lighthearted. VOICE: Write with upbeat, playful language that makes achievement feel fun and accessible. Use humor and wordplay. Combine Hero's triumph ('Win,' 'Achieve,' 'Succeed') with Jester's joy ('Fun,' 'Playful,' 'Delightful'). Tone is enthusiastic and entertaining, making success feel like a celebration rather than a struggle."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Adventurous Hero",
+      "merged_ad_guidance": "VISUAL: Use expansive landscapes, journey imagery, maps, and discovery scenes. Show figures conquering new territories or reaching summits. Adventure gear and exploration elements. VOICE: Write with bold, adventurous language that promises exciting challenges and discoveries. Use journey metaphors and exploration terminology. Combine Hero's conquest ('Conquer,' 'Master,' 'Triumph') with Explorer's discovery ('Discover,' 'Explore,' 'Venture into'). Tone is bold and adventurous, promising exciting journeys to victory."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Pure Champion",
+      "merged_ad_guidance": "VISUAL: Use clean, bright imagery showing honest achievement. Simple, wholesome settings with clear victories. White/light colors, clean lines, and straightforward success stories. VOICE: Write with honest, straightforward language that emphasizes doing right while winning. Use simple, clear messaging. Combine Hero's triumph ('Win,' 'Succeed,' 'Achieve') with Innocent's purity ('Honest,' 'Right,' 'True'). Tone is inspiring yet wholesome, emphasizing moral victory and honest success."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Creator",
+      "merged_name": "The Innovative Hero",
+      "merged_ad_guidance": "VISUAL: Show breakthrough moments, innovation labs, creative processes leading to triumph. Use imagery of building, designing, or inventing. Show the creative journey to victory. VOICE: Write with visionary language that celebrates breakthrough thinking and creative solutions. Use innovation terminology and building metaphors. Combine Hero's achievement ('Breakthrough,' 'Pioneer,' 'Master') with Creator's innovation ('Create,' 'Build,' 'Innovate'). Tone is inspiring and visionary, emphasizing creative triumph and innovative victory."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Noble Leader",
+      "merged_ad_guidance": "VISUAL: Use premium, commanding imagery showing leadership and authority. Luxurious settings, formal attire, symbols of power and achievement. Show leading others to victory. VOICE: Write with authoritative, commanding language that emphasizes both leadership and personal triumph. Use power words and leadership terminology. Combine Hero's triumph ('Conquer,' 'Achieve,' 'Excel') with Ruler's authority ('Command,' 'Lead,' 'Control'). Tone is confident and commanding, emphasizing leadership through personal excellence."
+    },
+    {
+      "archetype_1": "The Hero",
+      "archetype_2": "The Magician",
+      "merged_name": "The Transformative Hero",
+      "merged_ad_guidance": "VISUAL: Use mystical, transformative imagery showing dramatic before/after changes. Magical elements combined with triumph scenes. Show impossible victories and magical transformations. VOICE: Write with wonder-filled language that promises magical achievement and impossible victories. Use transformation terminology and mystical metaphors. Combine Hero's triumph ('Transform,' 'Transcend,' 'Overcome') with Magician's magic ('Magical,' 'Mysterious,' 'Impossible'). Tone is inspiring and mysterious, promising magical victories and impossible achievements."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Everyman",
+      "merged_name": "The Wise Guide",
+      "merged_ad_guidance": "VISUAL: Use approachable, educational imagery showing teachers with students or guides with groups. Comfortable, accessible learning environments. Show wisdom being shared in everyday settings. VOICE: Write with knowledgeable but accessible language that makes complex ideas simple. Use teaching metaphors and inclusive language. Combine Sage's wisdom ('Learn,' 'Understand,' 'Discover') with Everyman's accessibility ('Simple,' 'Clear,' 'For everyone'). Tone is wise yet approachable, making expertise feel accessible to all."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Outlaw",
+      "merged_name": "The Revolutionary Teacher",
+      "merged_ad_guidance": "VISUAL: Use provocative, educational imagery showing alternative viewpoints and challenging established knowledge. Contrast traditional vs. revolutionary thinking. Show breaking intellectual barriers. VOICE: Write with provocative, challenging language that questions conventional wisdom while teaching new truths. Use contrarian terminology and educational rebellion. Combine Sage's wisdom ('Truth,' 'Insight,' 'Understanding') with Outlaw's rebellion ('Challenge,' 'Disrupt,' 'Question'). Tone is intellectually rebellious and provocatively educational."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Lover",
+      "merged_name": "The Passionate Mentor",
+      "merged_ad_guidance": "VISUAL: Use beautiful, inspiring educational imagery with aesthetic appeal. Show passionate learning and emotional connection to knowledge. Beautiful learning environments and sensory-rich wisdom sharing. VOICE: Write with passionate, emotionally rich language that makes learning feel beautiful and inspiring. Use sensory words and emotional metaphors. Combine Sage's wisdom ('Learn,' 'Understand,' 'Discover') with Lover's passion ('Beautiful,' 'Inspiring,' 'Passionate'). Tone is emotionally engaging and aesthetically pleasing, making wisdom feel beautiful and desirable."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Caregiver",
+      "merged_name": "The Nurturing Teacher",
+      "merged_ad_guidance": "VISUAL: Use warm, supportive imagery showing caring guidance and protective teaching. Comfortable, safe learning environments with nurturing mentors. Show knowledge being shared with care. VOICE: Write with caring, supportive language that makes learning feel safe and nurturing. Use protective terminology and caring metaphors. Combine Sage's wisdom ('Guide,' 'Teach,' 'Share') with Caregiver's nurturing ('Care for,' 'Protect,' 'Support'). Tone is wise and caring, emphasizing knowledge shared with love and protection."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Jester",
+      "merged_name": "The Playful Sage",
+      "merged_ad_guidance": "VISUAL: Use fun, entertaining imagery showing joyful learning and playful wisdom sharing. Bright, engaging educational environments with humor and entertainment. Show serious knowledge delivered with joy. VOICE: Write with witty, entertaining language that makes learning fun and memorable. Use humor and playful metaphors. Combine Sage's wisdom ('Learn,' 'Understand,' 'Discover') with Jester's humor ('Fun,' 'Playful,' 'Entertaining'). Tone is wise yet entertaining, making serious knowledge feel enjoyable and accessible through humor."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Discovery Guide",
+      "merged_ad_guidance": "VISUAL: Use exploration imagery showing intellectual journeys and knowledge discovery. Maps, compasses, and discovery scenes combined with learning environments. Show the adventure of learning. VOICE: Write with adventurous, discovery-focused language that makes learning feel like an exciting journey. Use exploration metaphors and journey terminology. Combine Sage's wisdom ('Discover,' 'Learn,' 'Understand') with Explorer's adventure ('Explore,' 'Journey,' 'Venture'). Tone is wise and adventurous, presenting knowledge as an exciting expedition."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Trustworthy Teacher",
+      "merged_ad_guidance": "VISUAL: Use clean, simple imagery showing honest knowledge sharing and transparent teaching. Pure, uncomplicated learning environments with clear, straightforward wisdom. VOICE: Write with honest, straightforward language that makes knowledge feel trustworthy and reliable. Use simple, clear terminology without jargon. Combine Sage's wisdom ('Truth,' 'Knowledge,' 'Understanding') with Innocent's purity ('Honest,' 'Simple,' 'Clear'). Tone is wise yet simple, emphasizing honest knowledge without hidden agendas."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Creator",
+      "merged_name": "The Innovative Mentor",
+      "merged_ad_guidance": "VISUAL: Use innovative, creative imagery showing knowledge leading to breakthrough creation. Studios, labs, and creative environments where wisdom builds new things. Show the creative application of knowledge. VOICE: Write with visionary, creative language that connects wisdom to innovation and creation. Use building metaphors and creative terminology. Combine Sage's wisdom ('Understand,' 'Learn,' 'Know') with Creator's innovation ('Create,' 'Build,' 'Innovate'). Tone is wise and visionary, showing how knowledge leads to creative breakthrough."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Authority Figure",
+      "merged_ad_guidance": "VISUAL: Use premium, authoritative imagery showing commanding expertise and elite knowledge. Luxurious learning environments, formal settings, and symbols of intellectual authority. VOICE: Write with commanding, authoritative language that establishes ultimate expertise and intellectual dominance. Use power words and authority terminology. Combine Sage's wisdom ('Expert,' 'Authority,' 'Master') with Ruler's command ('Command,' 'Control,' 'Lead'). Tone is wise and commanding, establishing intellectual authority and expertise superiority."
+    },
+    {
+      "archetype_1": "The Sage",
+      "archetype_2": "The Magician",
+      "merged_name": "The Mystical Teacher",
+      "merged_ad_guidance": "VISUAL: Use mysterious, transformative imagery showing magical knowledge and mystical wisdom. Mystical learning environments with transformative educational experiences. Show wisdom as mysterious and transformative. VOICE: Write with mysterious, transformative language that makes knowledge feel magical and profound. Use mystical metaphors and transformation terminology. Combine Sage's wisdom ('Secrets,' 'Mysteries,' 'Hidden truths') with Magician's magic ('Transform,' 'Mystical,' 'Magical'). Tone is wise and mysterious, presenting knowledge as transformative magic."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Outlaw",
+      "merged_name": "The People's Rebel",
+      "merged_ad_guidance": "VISUAL: Use grassroots, revolutionary imagery showing ordinary people challenging systems. Protest scenes, community organizing, and everyday rebellion. Show common people rising up together. VOICE: Write with accessible, rebellious language that empowers regular people to challenge authority. Use inclusive, revolutionary terminology. Combine Everyman's relatability ('We the people,' 'All of us') with Outlaw's rebellion ('Fight back,' 'Challenge,' 'Resist'). Tone is rebellious yet inclusive, empowering ordinary people to challenge unfair systems."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Lover",
+      "merged_name": "The Heartfelt Connector",
+      "merged_ad_guidance": "VISUAL: Use warm, community-focused imagery showing genuine connections and authentic relationships. Real families, friends, and communities sharing beautiful moments. Show love in everyday settings. VOICE: Write with warm, emotionally connecting language that celebrates real relationships and genuine connections. Use inclusive, loving terminology. Combine Everyman's relatability ('Real people,' 'Just like you') with Lover's passion ('Love,' 'Connection,' 'Beautiful'). Tone is warm and inclusive, celebrating authentic love and genuine human connections."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Caregiver",
+      "merged_name": "The Community Guardian",
+      "merged_ad_guidance": "VISUAL: Use protective, community-focused imagery showing neighbors helping neighbors and communities caring for each other. Supportive group settings and protective care. VOICE: Write with caring, inclusive language that emphasizes community support and mutual care. Use protective, nurturing terminology. Combine Everyman's community ('We,' 'Together,' 'Community') with Caregiver's nurturing ('Care for,' 'Protect,' 'Support'). Tone is caring and inclusive, emphasizing community protection and mutual support."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Jester",
+      "merged_name": "The Cheerful Neighbor",
+      "merged_ad_guidance": "VISUAL: Use bright, fun imagery showing everyday people enjoying life and sharing laughter. Casual, joyful settings with genuine smiles and community celebrations. Show accessible fun and humor. VOICE: Write with playful, relatable language that brings joy to everyday life. Use humor that everyone can relate to and enjoy. Combine Everyman's relatability ('Just like you,' 'Real people') with Jester's humor ('Fun,' 'Playful,' 'Joyful'). Tone is cheerful and inclusive, making fun feel accessible and genuine."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Accessible Adventurer",
+      "merged_ad_guidance": "VISUAL: Use approachable adventure imagery showing ordinary people discovering new experiences. Accessible outdoor settings, family adventures, and realistic exploration. Show adventure without elite equipment. VOICE: Write with encouraging, accessible language that makes adventure feel attainable for everyone. Use inclusive exploration terminology. Combine Everyman's accessibility ('Anyone can,' 'For everyone') with Explorer's adventure ('Discover,' 'Explore,' 'Experience'). Tone is encouraging and inclusive, making adventure feel accessible to all."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Simple Soul",
+      "merged_ad_guidance": "VISUAL: Use clean, simple imagery showing honest, straightforward living and genuine simplicity. Pure, uncomplicated settings with real, authentic moments. Show simple pleasures and honest living. VOICE: Write with honest, straightforward language that celebrates simple values and genuine authenticity. Use clear, uncomplicated terminology. Combine Everyman's relatability ('Simple,' 'Honest,' 'Real') with Innocent's purity ('Pure,' 'Good,' 'True'). Tone is honest and genuine, celebrating simple goodness and authentic living."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Creator",
+      "merged_name": "The Everyday Artist",
+      "merged_ad_guidance": "VISUAL: Use creative, accessible imagery showing ordinary people creating and building meaningful things. Home workshops, community art, and everyday creativity. Show creation within reach. VOICE: Write with inspiring, accessible language that makes creativity feel attainable for everyone. Use encouraging, creative terminology. Combine Everyman's accessibility ('Anyone can create,' 'For everyone') with Creator's innovation ('Create,' 'Build,' 'Make'). Tone is inspiring and inclusive, making creativity feel accessible and achievable."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Democratic Leader",
+      "merged_ad_guidance": "VISUAL: Use inclusive leadership imagery showing shared power and community decision-making. Town halls, community meetings, and collective leadership. Show power distributed among people. VOICE: Write with empowering, inclusive language that emphasizes shared leadership and collective power. Use democratic terminology and community language. Combine Everyman's inclusivity ('We the people,' 'All of us') with Ruler's leadership ('Lead together,' 'Shared power'). Tone is empowering and democratic, emphasizing leadership through community participation."
+    },
+    {
+      "archetype_1": "The Everyman",
+      "archetype_2": "The Magician",
+      "merged_name": "The Everyday Miracle Worker",
+      "merged_ad_guidance": "VISUAL: Use transformative imagery showing ordinary people creating extraordinary results. Everyday magic and accessible transformation. Show regular people achieving amazing things. VOICE: Write with inspiring, accessible language that makes transformation feel attainable for everyone. Use magical yet relatable terminology. Combine Everyman's accessibility ('Anyone can,' 'Regular people') with Magician's transformation ('Transform,' 'Magical,' 'Extraordinary'). Tone is inspiring and accessible, making magical transformation feel achievable by ordinary people."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Lover",
+      "merged_name": "The Passionate Rebel",
+      "merged_ad_guidance": "VISUAL: Use intense, sensual imagery showing passionate rebellion and defiant love. Dark, dramatic settings with passionate encounters and rebellious romance. Show love that defies conventions. VOICE: Write with passionate, defiant language that celebrates love outside traditional boundaries. Use intense, rebellious terminology. Combine Outlaw's rebellion ('Defy,' 'Break free,' 'Rebel') with Lover's passion ('Passionate,' 'Intense,' 'Desire'). Tone is passionate and defiant, celebrating love that breaks rules and defies expectations."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Caregiver",
+      "merged_name": "The Protective Revolutionary",
+      "merged_ad_guidance": "VISUAL: Use powerful, protective imagery showing fierce defense of the vulnerable. Revolutionary care and protective rebellion. Show fighting for those who can't fight for themselves. VOICE: Write with fierce, protective language that emphasizes revolutionary care and defensive rebellion. Use protective, fighting terminology. Combine Outlaw's rebellion ('Fight,' 'Rebel,' 'Challenge') with Caregiver's protection ('Protect,' 'Defend,' 'Care for'). Tone is fierce and protective, emphasizing rebellion that serves to protect and care for others."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Jester",
+      "merged_name": "The Subversive Comedian",
+      "merged_ad_guidance": "VISUAL: Use irreverent, humorous imagery showing playful rebellion and subversive comedy. Satirical settings with clever visual jokes and rebellious humor. Show challenging authority through wit. VOICE: Write with witty, subversive language that uses humor to challenge authority and social norms. Use satirical, clever terminology. Combine Outlaw's rebellion ('Subvert,' 'Challenge,' 'Disrupt') with Jester's humor ('Witty,' 'Clever,' 'Satirical'). Tone is cleverly rebellious and humorously subversive, using wit to challenge and disrupt."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Radical Pioneer",
+      "merged_ad_guidance": "VISUAL: Use bold, frontier imagery showing exploration beyond conventional boundaries. Dangerous territories, forbidden paths, and radical discovery. Show venturing where others fear to go. VOICE: Write with bold, pioneering language that promises exploration beyond normal limits. Use radical, adventurous terminology. Combine Outlaw's rebellion ('Break boundaries,' 'Defy limits') with Explorer's adventure ('Pioneer,' 'Venture,' 'Discover'). Tone is bold and pioneering, promising exploration that defies conventional boundaries."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Pure Revolutionary",
+      "merged_ad_guidance": "VISUAL: Use clean, principled imagery showing honest rebellion and pure-hearted revolution. Simple, moral settings with clear good vs. evil. Show principled resistance and honest revolt. VOICE: Write with principled, honest language that emphasizes moral rebellion and pure-hearted resistance. Use ethical, revolutionary terminology. Combine Outlaw's rebellion ('Resist,' 'Fight,' 'Challenge') with Innocent's purity ('Pure,' 'Honest,' 'Right'). Tone is principled and revolutionary, emphasizing rebellion that serves moral good and honest principles."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Creator",
+      "merged_name": "The Disruptive Innovator",
+      "merged_ad_guidance": "VISUAL: Use revolutionary, innovative imagery showing breakthrough creation and disruptive innovation. Revolutionary labs, breakthrough moments, and game-changing creation. Show building new realities. VOICE: Write with disruptive, innovative language that promises revolutionary creation and breakthrough innovation. Use revolutionary, creative terminology. Combine Outlaw's rebellion ('Disrupt,' 'Revolutionize,' 'Break') with Creator's innovation ('Create,' 'Build,' 'Innovate'). Tone is revolutionary and innovative, promising creation that disrupts and transforms entire industries."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Revolutionary Leader",
+      "merged_ad_guidance": "VISUAL: Use powerful, commanding imagery showing leadership through revolution and authoritative rebellion. Revolutionary command centers, powerful uprising leaders, and commanding change. VOICE: Write with commanding, revolutionary language that emphasizes leadership through disruption and authority through change. Use powerful, revolutionary terminology. Combine Outlaw's rebellion ('Overthrow,' 'Revolutionize,' 'Transform') with Ruler's command ('Lead,' 'Command,' 'Control'). Tone is powerfully revolutionary, emphasizing leadership through transformation and authority through change."
+    },
+    {
+      "archetype_1": "The Outlaw",
+      "archetype_2": "The Magician",
+      "merged_name": "The Transformative Revolutionary",
+      "merged_ad_guidance": "VISUAL: Use mystical, transformative imagery showing magical rebellion and revolutionary transformation. Mystical uprising, magical change, and transformative revolution. Show impossible change through defiant magic. VOICE: Write with mystical, revolutionary language that promises magical transformation through defiant change. Use transformative, rebellious terminology. Combine Outlaw's rebellion ('Defy,' 'Transform,' 'Revolutionize') with Magician's magic ('Magical,' 'Mystical,' 'Transformative'). Tone is mystically revolutionary, promising magical transformation through defiant change."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Caregiver",
+      "merged_name": "The Devoted Nurturer",
+      "merged_ad_guidance": "VISUAL: Use warm, nurturing imagery showing passionate care and loving protection. Intimate, caring settings with devoted attention and protective love. Show love expressed through caring actions. VOICE: Write with loving, nurturing language that emphasizes passionate care and devoted protection. Use caring, loving terminology. Combine Lover's passion ('Love,' 'Devotion,' 'Cherish') with Caregiver's nurturing ('Care for,' 'Protect,' 'Nurture'). Tone is lovingly protective and passionately caring, emphasizing love expressed through devoted care."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Jester",
+      "merged_name": "The Playful Romantic",
+      "merged_ad_guidance": "VISUAL: Use fun, romantic imagery showing playful love and joyful romance. Lighthearted romantic settings with laughter, play, and romantic fun. Show love as joyful and entertaining. VOICE: Write with playful, romantic language that makes love feel fun and lighthearted. Use flirtatious, entertaining terminology. Combine Lover's romance ('Love,' 'Romance,' 'Passion') with Jester's playfulness ('Fun,' 'Playful,' 'Joyful'). Tone is romantically playful and lovingly entertaining, making romance feel fun and joyful."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Sensual Adventurer",
+      "merged_ad_guidance": "VISUAL: Use beautiful, adventurous imagery showing romantic exploration and sensual discovery. Exotic, romantic settings with intimate adventures and passionate journeys. Show love through shared exploration. VOICE: Write with sensual, adventurous language that promises romantic discovery and passionate exploration. Use sensory, exploratory terminology. Combine Lover's sensuality ('Sensual,' 'Passionate,' 'Beautiful') with Explorer's adventure ('Discover,' 'Explore,' 'Journey'). Tone is sensually adventurous and romantically exploratory, promising intimate discovery and passionate adventure."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Pure Heart",
+      "merged_ad_guidance": "VISUAL: Use clean, romantic imagery showing pure love and innocent romance. Simple, beautiful settings with wholesome romantic moments and pure emotional connections. Show honest, uncomplicated love. VOICE: Write with pure, romantic language that emphasizes innocent love and honest emotional connections. Use clean, sincere terminology. Combine Lover's romance ('Love,' 'Romance,' 'Heart') with Innocent's purity ('Pure,' 'Honest,' 'True'). Tone is purely romantic and honestly loving, emphasizing clean, sincere emotional connections."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Creator",
+      "merged_name": "The Artistic Soul",
+      "merged_ad_guidance": "VISUAL: Use beautiful, creative imagery showing artistic expression and creative romance. Beautiful studios, artistic creation, and creative passion. Show love expressed through artistic creation. VOICE: Write with artistic, passionate language that connects love to creative expression and beautiful creation. Use aesthetic, creative terminology. Combine Lover's beauty ('Beautiful,' 'Aesthetic,' 'Passionate') with Creator's artistry ('Create,' 'Artistic,' 'Express'). Tone is artistically passionate and creatively romantic, emphasizing love expressed through beautiful creation."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Passionate Elite",
+      "merged_ad_guidance": "VISUAL: Use luxury, romantic imagery showing elite passion and sophisticated romance. Premium romantic settings with luxury elements and exclusive romantic experiences. Show love at the highest level. VOICE: Write with luxurious, passionate language that emphasizes elite romance and sophisticated passion. Use premium, exclusive terminology. Combine Lover's passion ('Passionate,' 'Desire,' 'Intimate') with Ruler's luxury ('Elite,' 'Exclusive,' 'Premium'). Tone is luxuriously passionate and sophisticatedly romantic, emphasizing romance at the highest level of quality and exclusivity."
+    },
+    {
+      "archetype_1": "The Lover",
+      "archetype_2": "The Magician",
+      "merged_name": "The Enchanting Romantic",
+      "merged_ad_guidance": "VISUAL: Use mystical, romantic imagery showing magical love and enchanting romance. Mystical romantic settings with magical elements and transformative love. Show love as magical and enchanting. VOICE: Write with enchanting, magical language that makes love feel mystical and transformative. Use magical, romantic terminology. Combine Lover's romance ('Love,' 'Romance,' 'Enchanting') with Magician's magic ('Magical,' 'Mystical,' 'Transformative'). Tone is magically romantic and enchantingly transformative, presenting love as mystical and magical."
+    },
+    {
+      "archetype_1": "The Caregiver",
+      "archetype_2": "The Jester",
+      "merged_name": "The Caring Comedian",
+      "merged_ad_guidance": "VISUAL: Use warm, humorous imagery showing caring through joy and protective humor. Comfortable, fun settings with caring laughter and protective entertainment. Show care delivered with joy and humor. VOICE: Write with caring, humorous language that makes care feel joyful and supportive humor feel protective. Use nurturing, entertaining terminology. Combine Caregiver's care ('Care for,' 'Protect,' 'Nurture') with Jester's humor ('Fun,' 'Joyful,' 'Entertaining'). Tone is caringly humorous and protectively entertaining, making care feel joyful and support feel fun."
+    },
+    {
+      "archetype_1": "The Caregiver",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Nurturing Guide",
+      "merged_ad_guidance": "VISUAL: Use protective, adventurous imagery showing safe exploration and caring guidance. Protected journey settings with caring guides and safe adventure. Show exploration with security and care. VOICE: Write with caring, adventurous language that promises safe exploration and protective guidance. Use nurturing, exploratory terminology. Combine Caregiver's protection ('Protect,' 'Guide,' 'Safe') with Explorer's adventure ('Explore,' 'Discover,' 'Journey'). Tone is protectively adventurous and caringly exploratory, promising exploration with safety and care."
+    },
+    {
+      "archetype_1": "The Caregiver",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Gentle Guardian",
+      "merged_ad_guidance": "VISUAL: Use soft, protective imagery showing gentle care and innocent protection. Pure, safe settings with gentle guardians and innocent care. Show simple, honest protection and care. VOICE: Write with gentle, protective language that emphasizes innocent care and honest protection. Use soft, caring terminology. Combine Caregiver's protection ('Protect,' 'Care for,' 'Guard') with Innocent's purity ('Gentle,' 'Pure,' 'Honest'). Tone is gently protective and innocently caring, emphasizing pure, honest care and simple protection."
+    },
+    {
+      "archetype_1": "The Caregiver",
+      "archetype_2": "The Creator",
+      "merged_name": "The Nurturing Builder",
+      "merged_ad_guidance": "VISUAL: Use protective, creative imagery showing caring creation and nurturing building. Building safe spaces, creating protective environments, and constructing care. Show creation that protects and nurtures. VOICE: Write with caring, creative language that emphasizes building things that protect and nurture. Use constructive, caring terminology. Combine Caregiver's nurturing ('Nurture,' 'Protect,' 'Care for') with Creator's building ('Build,' 'Create,' 'Construct'). Tone is caringly creative and protectively constructive, emphasizing creation that serves caring purposes."
+    },
+    {
+      "archetype_1": "The Caregiver",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Protective Authority",
+      "merged_ad_guidance": "VISUAL: Use authoritative, protective imagery showing leadership through care and commanding protection. Premium protective settings with authoritative care and elite protection. Show leadership that protects and cares. VOICE: Write with authoritative, caring language that emphasizes leadership through protection and authority through care. Use commanding, protective terminology. Combine Caregiver's protection ('Protect,' 'Care for,' 'Guard') with Ruler's authority ('Lead,' 'Command,' 'Authority'). Tone is authoritatively protective and commandingly caring, emphasizing leadership through protective care."
+    },
+    {
+      "archetype_1": "The Caregiver",
+      "archetype_2": "The Magician",
+      "merged_name": "The Healing Miracle Worker",
+      "merged_ad_guidance": "VISUAL: Use mystical, healing imagery showing magical care and transformative healing. Mystical healing settings with magical care and transformative protection. Show care that creates miracles. VOICE: Write with healing, magical language that promises miraculous care and transformative protection. Use healing, mystical terminology. Combine Caregiver's healing ('Heal,' 'Care for,' 'Restore') with Magician's magic ('Magical,' 'Miraculous,' 'Transformative'). Tone is magically healing and miraculously caring, promising care that creates magical healing and transformative protection."
+    },
+    {
+      "archetype_1": "The Jester",
+      "archetype_2": "The Explorer",
+      "merged_name": "The Playful Adventurer",
+      "merged_ad_guidance": "VISUAL: Use fun, adventurous imagery showing joyful exploration and playful discovery. Colorful adventure settings with playful exploration and joyful discovery. Show adventure as fun and entertaining. VOICE: Write with playful, adventurous language that makes exploration feel fun and discovery feel entertaining. Use joyful, exploratory terminology. Combine Jester's playfulness ('Fun,' 'Playful,' 'Joyful') with Explorer's adventure ('Explore,' 'Discover,' 'Adventure'). Tone is playfully adventurous and joyfully exploratory, making adventure feel fun and exploration feel entertaining."
+    },
+    {
+      "archetype_1": "The Jester",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Wholesome Entertainer",
+      "merged_ad_guidance": "VISUAL: Use clean, fun imagery showing wholesome entertainment and innocent humor. Simple, joyful settings with family-friendly fun and pure entertainment. Show humor that's clean and innocent. VOICE: Write with wholesome, entertaining language that emphasizes clean humor and innocent fun. Use family-friendly, joyful terminology. Combine Jester's entertainment ('Fun,' 'Entertaining,' 'Joyful') with Innocent's purity ('Clean,' 'Wholesome,' 'Pure'). Tone is wholesomely entertaining and innocently fun, emphasizing clean humor and pure entertainment."
+    },
+    {
+      "archetype_1": "The Jester",
+      "archetype_2": "The Creator",
+      "merged_name": "The Creative Comedian",
+      "merged_ad_guidance": "VISUAL: Use innovative, humorous imagery showing creative entertainment and artistic humor. Creative studios with playful creation and artistic comedy. Show humor that creates and builds. VOICE: Write with creative, entertaining language that emphasizes innovative humor and artistic entertainment. Use creative, humorous terminology. Combine Jester's humor ('Creative,' 'Entertaining,' 'Innovative') with Creator's artistry ('Artistic,' 'Creative,' 'Build'). Tone is creatively entertaining and artistically humorous, emphasizing humor that creates and builds memorable experiences."
+    },
+    {
+      "archetype_1": "The Jester",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Entertaining Authority",
+      "merged_ad_guidance": "VISUAL: Use sophisticated, humorous imagery showing elite entertainment and authoritative humor. Premium entertainment settings with sophisticated comedy and elite fun. Show humor that commands respect. VOICE: Write with sophisticated, entertaining language that emphasizes elite humor and authoritative entertainment. Use premium, witty terminology. Combine Jester's entertainment ('Entertaining,' 'Witty,' 'Sophisticated') with Ruler's authority ('Elite,' 'Premium,' 'Authoritative'). Tone is sophisticatedly entertaining and authoritatively humorous, emphasizing elite humor and premium entertainment."
+    },
+    {
+      "archetype_1": "The Jester",
+      "archetype_2": "The Magician",
+      "merged_name": "The Magical Entertainer",
+      "merged_ad_guidance": "VISUAL: Use mystical, entertaining imagery showing magical humor and transformative entertainment. Mystical entertainment settings with magical comedy and transformative fun. Show humor that creates magic. VOICE: Write with magical, entertaining language that promises mystical humor and transformative entertainment. Use magical, playful terminology. Combine Jester's entertainment ('Entertaining,' 'Magical,' 'Delightful') with Magician's magic ('Mystical,' 'Transformative,' 'Wonderful'). Tone is magically entertaining and mystically fun, promising entertainment that creates magical experiences and transformative joy."
+    },
+    {
+      "archetype_1": "The Explorer",
+      "archetype_2": "The Innocent",
+      "merged_name": "The Pure Adventurer",
+      "merged_ad_guidance": "VISUAL: Use clean, adventurous imagery showing honest exploration and pure discovery. Simple, natural adventure settings with authentic exploration and honest discovery. Show adventure without corruption. VOICE: Write with honest, adventurous language that emphasizes pure exploration and authentic discovery. Use clean, exploratory terminology. Combine Explorer's adventure ('Explore,' 'Discover,' 'Authentic') with Innocent's purity ('Pure,' 'Honest,' 'Simple'). Tone is purely adventurous and honestly exploratory, emphasizing authentic exploration and simple discovery."
+    },
+    {
+      "archetype_1": "The Explorer",
+      "archetype_2": "The Creator",
+      "merged_name": "The Pioneering Innovator",
+      "merged_ad_guidance": "VISUAL: Use innovative, exploratory imagery showing creative discovery and pioneering innovation. Creative exploration settings with innovative discovery and pioneering creation. Show exploration that builds new things. VOICE: Write with pioneering, creative language that emphasizes innovative exploration and creative discovery. Use pioneering, innovative terminology. Combine Explorer's pioneering ('Pioneer,' 'Discover,' 'Explore') with Creator's innovation ('Innovate,' 'Create,' 'Build'). Tone is pioneeringly innovative and creatively exploratory, emphasizing exploration that leads to breakthrough creation."
+    },
+    {
+      "archetype_1": "The Explorer",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Elite Explorer",
+      "merged_ad_guidance": "VISUAL: Use luxury, adventurous imagery showing premium exploration and elite discovery. Exclusive adventure settings with luxury exploration and elite discovery. Show adventure at the highest level. VOICE: Write with exclusive, adventurous language that emphasizes elite exploration and premium discovery. Use luxury, exploratory terminology. Combine Explorer's adventure ('Explore,' 'Discover,' 'Venture') with Ruler's elite status ('Elite,' 'Premium,' 'Exclusive'). Tone is exclusively adventurous and premiumly exploratory, emphasizing exploration at the highest level of quality and exclusivity."
+    },
+    {
+      "archetype_1": "The Explorer",
+      "archetype_2": "The Magician",
+      "merged_name": "The Mystical Voyager",
+      "merged_ad_guidance": "VISUAL: Use mystical, adventurous imagery showing magical exploration and transformative discovery. Mystical adventure settings with magical journeys and transformative exploration. Show exploration that transforms. VOICE: Write with mystical, adventurous language that promises magical exploration and transformative discovery. Use mystical, exploratory terminology. Combine Explorer's voyage ('Voyage,' 'Journey,' 'Discover') with Magician's magic ('Mystical,' 'Magical,' 'Transformative'). Tone is mystically adventurous and magically exploratory, promising exploration that creates magical transformation."
+    },
+    {
+      "archetype_1": "The Innocent",
+      "archetype_2": "The Creator",
+      "merged_name": "The Pure Creator",
+      "merged_ad_guidance": "VISUAL: Use clean, creative imagery showing honest creation and pure innovation. Simple, clean creative settings with authentic building and honest creation. Show creation with pure intentions. VOICE: Write with honest, creative language that emphasizes pure creation and authentic building. Use clean, innovative terminology. Combine Innocent's purity ('Pure,' 'Honest,' 'Authentic') with Creator's creation ('Create,' 'Build,' 'Innovate'). Tone is purely creative and honestly innovative, emphasizing creation with pure intentions and authentic building."
+    },
+    {
+      "archetype_1": "The Innocent",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Honest Authority",
+      "merged_ad_guidance": "VISUAL: Use clean, authoritative imagery showing honest leadership and transparent authority. Simple, premium settings with honest leadership and transparent authority. Show leadership with integrity. VOICE: Write with honest, authoritative language that emphasizes transparent leadership and authentic authority. Use clean, commanding terminology. Combine Innocent's honesty ('Honest,' 'Transparent,' 'Authentic') with Ruler's authority ('Authority,' 'Leadership,' 'Command'). Tone is honestly authoritative and transparently commanding, emphasizing leadership with integrity and authentic authority."
+    },
+    {
+      "archetype_1": "The Innocent",
+      "archetype_2": "The Magician",
+      "merged_name": "The Pure Miracle Worker",
+      "merged_ad_guidance": "VISUAL: Use clean, magical imagery showing pure transformation and honest miracles. Simple, mystical settings with pure magic and honest transformation. Show magic with good intentions. VOICE: Write with pure, magical language that emphasizes honest transformation and authentic miracles. Use clean, mystical terminology. Combine Innocent's purity ('Pure,' 'Honest,' 'Good') with Magician's magic ('Miraculous,' 'Transformative,' 'Magical'). Tone is purely magical and honestly transformative, emphasizing magic with good intentions and authentic miracles."
+    },
+    {
+      "archetype_1": "The Creator",
+      "archetype_2": "The Ruler",
+      "merged_name": "The Visionary Leader",
+      "merged_ad_guidance": "VISUAL: Use premium, innovative imagery showing creative leadership and visionary authority. Luxury creative settings with innovative leadership and elite creation. Show leadership through creative vision. VOICE: Write with visionary, authoritative language that emphasizes creative leadership and innovative authority. Use premium, visionary terminology. Combine Creator's vision ('Visionary,' 'Innovative,' 'Creative') with Ruler's leadership ('Leadership,' 'Authority,' 'Elite'). Tone is visionarily authoritative and creatively commanding, emphasizing leadership through creative excellence and innovative vision."
+    },
+    {
+      "archetype_1": "The Creator",
+      "archetype_2": "The Magician",
+      "merged_name": "The Transformative Innovator",
+      "merged_ad_guidance": "VISUAL: Use mystical, creative imagery showing magical innovation and transformative creation. Mystical creative settings with magical building and transformative innovation. Show creation that transforms reality. VOICE: Write with transformative, innovative language that promises magical creation and mystical innovation. Use mystical, creative terminology. Combine Creator's innovation ('Innovative,' 'Creative,' 'Build') with Magician's transformation ('Transformative,' 'Magical,' 'Mystical'). Tone is transformatively innovative and magically creative, promising creation that transforms reality through mystical innovation."
+    },
+    {
+      "archetype_1": "The Ruler",
+      "archetype_2": "The Magician",
+      "merged_name": "The Sovereign Sorcerer",
+      "merged_ad_guidance": "VISUAL: Use premium, mystical imagery showing magical authority and transformative leadership. Luxury mystical settings with magical command and transformative power. Show authority that transforms through magic. VOICE: Write with commanding, mystical language that emphasizes magical authority and transformative leadership. Use premium, mystical terminology. Combine Ruler's sovereignty ('Sovereign,' 'Command,' 'Authority') with Magician's magic ('Magical,' 'Mystical,' 'Transformative'). Tone is magically authoritative and mystically commanding, emphasizing authority that transforms through magical power and mystical leadership."
+    }
+  ]
+} 

@@ -1,0 +1,52 @@
+{
+  "jungian_archetypes": [
+    {
+      "archetype": "The Hero",
+      "ad_creation_guidance": "Create ads that position your product/service as empowering customers to overcome obstacles and achieve their goals. Use language of triumph, courage, and determination. Show customers becoming the best version of themselves through your offering. Feature transformation stories and focus on empowerment messaging."
+    },
+    {
+      "archetype": "The Sage",
+      "ad_creation_guidance": "Develop ads that establish your expertise and credibility as a knowledgeable guide. Use educational content, insights, and wisdom-based messaging. Position yourself as a trusted advisor and thought leader. Focus on understanding, knowledge, and truth. Include data, research, or expert testimonials."
+    },
+    {
+      "archetype": "The Everyman",
+      "ad_creation_guidance": "Create relatable, down-to-earth ads that appeal to the common person. Use inclusive messaging that emphasizes community, belonging, and shared values. Show real people in authentic situations. Focus on connection, comfort, and common sense. Avoid exclusivity or elitism."
+    },
+    {
+      "archetype": "The Outlaw",
+      "ad_creation_guidance": "Design bold, provocative ads that challenge industry norms and question authority. Appeal to nonconformists with revolutionary messaging. Use edgy visuals and copy that disrupts the status quo. Position as the alternative choice for those who don't follow the crowd."
+    },
+    {
+      "archetype": "The Lover",
+      "ad_creation_guidance": "Create ads that focus on beauty, relationships, and sensory experiences. Use romantic, passionate language and aesthetic appeal. Emphasize emotional connections, intimacy, and desire. Include beautiful visuals and messaging that appeals to the senses and emotions."
+    },
+    {
+      "archetype": "The Caregiver",
+      "ad_creation_guidance": "Develop ads that emphasize care, protection, and service to others. Use nurturing, supportive language that makes customers feel safe and cared for. Focus on compassion, generosity, and selfless service. Show how your product/service protects or cares for what matters most."
+    },
+    {
+      "archetype": "The Jester",
+      "ad_creation_guidance": "Create fun, humorous ads that bring joy and laughter to customers' lives. Use playful, entertaining messaging and memorable experiences. Don't take yourself too seriously - use humor and irreverence to connect with audiences and make life more enjoyable."
+    },
+    {
+      "archetype": "The Explorer",
+      "ad_creation_guidance": "Design ads that promise adventure, discovery, and new experiences. Appeal to customers' desire for freedom, self-discovery, and authentic experiences. Use imagery of exploration and discovery. Focus on the thrill of experiencing something new and breaking free from routine."
+    },
+    {
+      "archetype": "The Innocent",
+      "ad_creation_guidance": "Create simple, wholesome ads that focus on purity and goodness. Use nostalgic messaging that promises happiness and safety. Emphasize trustworthiness, reliability, and a return to simpler times. Use clean, simple visuals and honest, straightforward copy."
+    },
+    {
+      "archetype": "The Creator",
+      "ad_creation_guidance": "Develop ads that emphasize innovation, creativity, and artistic expression. Position as pioneers who create lasting value and inspire others to create. Focus on building things of enduring value and creating new categories. Show the creative process and celebrate imagination."
+    },
+    {
+      "archetype": "The Ruler",
+      "ad_creation_guidance": "Create premium, exclusive ads that appeal to customers' desire for status, power, and control. Use luxury positioning and aspirational messaging. Emphasize leadership, superiority, and exclusivity. Target those who want to be in control and command respect."
+    },
+    {
+      "archetype": "The Magician",
+      "ad_creation_guidance": "Design ads that promise transformation and magical experiences. Create a sense of wonder and possibility. Position as catalysts for positive change and making dreams come true. Use mysterious, transformative messaging that suggests your product/service can create something special from nothing."
+    }
+  ]
+} 
