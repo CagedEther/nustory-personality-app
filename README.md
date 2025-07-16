@@ -2,6 +2,12 @@
 
 A React-based web application for generating marketing ad guidance using Jungian archetypes and AI-powered content generation.
 
+## 🚀 Live Demo
+
+**Try it now**: [https://nustory-personality-app.vercel.app/](https://nustory-personality-app.vercel.app/)
+
+> Generate personalized marketing content using psychological archetypes and AI
+
 ## Features
 
 - **Three-section layout**: Input, Run, and Results
